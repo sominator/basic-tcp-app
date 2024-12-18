@@ -1,0 +1,17 @@
+{
+  "name": "basic-tcpapp",
+  "version": "0.0.0",
+  "description": "BasicTCPApp",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "devDependencies": {
+    "eslint": "^8.21.0"
+  },
+  "eslintConfig": {
+  }
+}
